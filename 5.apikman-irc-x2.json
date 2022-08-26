@@ -1,7 +1,7 @@
 [ {
-  "is_active" : true,
-  "top_banner" : true,
+  "is_active" : false,
+  "top_banner" : false,
   "time_interval" : 7000,
   "time_after_load" : 6000,
-  "app_key" : "1010101011001101100001011011101100100110011011001001100100111001"
+  "app_key" : "1010101011001100110110110001011000111100010011010011000010110001"
 } ]
