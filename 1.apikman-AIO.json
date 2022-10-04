@@ -26,7 +26,7 @@
   "top_banner_ircban" : true,
   "time_interval_ircban" : 6000,
   "time_after_load_ircban" : 700,
-  "refresh_ircban" : 90,
+  "refresh_ircban" : 180,
   "app_key_ircban" : "1010101011001100110110110001011000111100010011010011000010110001",
   
   "note" : "UNITY ADS",
@@ -44,7 +44,7 @@
   "top_banner_unaban" : true,
   "id_banner_unaban" : "1010101010000011101110110010011100101101111110100111001001011111100001011000011101110110111011001011110010",
   "game_id_unaban" : "101010100110011011100001101110110100011000001110000110111",
-  "refresh_unaban" : 90,
+  "refresh_unaban" : 180,
   "testMode_unaban" : false,
   
   "note" : "MAX",
