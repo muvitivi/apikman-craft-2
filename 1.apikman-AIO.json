@@ -48,8 +48,8 @@
   "testMode_unaban" : false,
   
   "note" : "MAX",
-  "is_active_max" : true,
-  "top_banner_max" : true,
+  "is_active_max" : false,
+  "top_banner_max" : false,
   "time_interval_max" : 600,
   "time_after_load_max" : 605,
   "id_banner_max" : "101010101100011011010011000100110100011001111001011100011011000011001010111000011100001100101100011011100101100011100110",
